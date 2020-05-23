@@ -1,6 +1,6 @@
 # Adobe Discord RPC
 
-![Cover Image](https://github.com/hwahyang1/Adobe-Discord-RPC/blob/master/img_for_github/cover.png)
+![Cover Image](https://github.com/Adobe-Discord-RPC/Adobe-Discord-RPC-Old/blob/master/img_for_github/cover.png)
 
 
 **해당 프로젝트는 오픈소스 프로젝트이며, Discord. Inc, Adobe를 포함한 모든 기업과는 별개의 서드파티 플러그인임을 알립니다.**
@@ -9,11 +9,11 @@
 
 [![Facebook Badge](https://img.shields.io/badge/Follow-Facebook-4267B2?style=for-the-badge)](https://www.facebook.com/adobediscordrpc) [![Twitter Badge](https://img.shields.io/badge/Follow-Twitter-1DA1F2?style=for-the-badge)](https://twitter.com/adobediscordrpc) [![Homepage Badge](https://img.shields.io/badge/Homepage-Click-7289DA?style=for-the-badge)](https://adoberpc.hwahyang.space)
 
-[![pypresence](https://img.shields.io/badge/using-pypresence-00bb88.svg?style=for-the-badge&logo=discord&logoWidth=20)](https://github.com/qwertyquerty/pypresence)  [![GitHub](https://img.shields.io/github/license/hwahyang1/Adobe-Discord-RPC?style=for-the-badge)](https://github.com/hwahyang1/Adobe-Discord-RPC/blob/master/LICENSE) ![GitHub top language](https://img.shields.io/github/languages/top/hwahyang1/Adobe-Discord-RPC?style=for-the-badge)
+[![pypresence](https://img.shields.io/badge/using-pypresence-00bb88.svg?style=for-the-badge&logo=discord&logoWidth=20)](https://github.com/qwertyquerty/pypresence)  [![GitHub](https://img.shields.io/github/license/Adobe-Discord-RPC/Adobe-Discord-RPC-Old?style=for-the-badge)](https://github.com/Adobe-Discord-RPC/Adobe-Discord-RPC-Old/blob/master/LICENSE) ![GitHub top language](https://img.shields.io/github/languages/top/Adobe-Discord-RPC/Adobe-Discord-RPC-Old?style=for-the-badge)
  
-![GitHub stars](https://img.shields.io/github/stars/hwahyang1/Adobe-Discord-RPC.svg?style=for-the-badge&label=Stars) [![GitHub issues](https://img.shields.io/github/issues/hwahyang1/Adobe-Discord-RPC?style=for-the-badge)](https://github.com/hwahyang1/Adobe-Discord-RPC/issues) [![GitHub pull requests](https://img.shields.io/github/issues-pr/hwahyang1/Adobe-Discord-RPC?style=for-the-badge)](https://github.com/hwahyang1/Adobe-Discord-RPC/pulls)
+![GitHub stars](https://img.shields.io/github/stars/Adobe-Discord-RPC/Adobe-Discord-RPC-Old.svg?style=for-the-badge&label=Stars) [![GitHub issues](https://img.shields.io/github/issues/Adobe-Discord-RPC/Adobe-Discord-RPC-Old?style=for-the-badge)](https://github.com/Adobe-Discord-RPC/Adobe-Discord-RPC-Old/issues) [![GitHub pull requests](https://img.shields.io/github/issues-pr/Adobe-Discord-RPC/Adobe-Discord-RPC-Old?style=for-the-badge)](https://github.com/Adobe-Discord-RPC/Adobe-Discord-RPC-Old/pulls)
 
-![GitHub repo size](https://img.shields.io/github/repo-size/hwahyang1/Adobe-Discord-RPC?style=for-the-badge) [![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/hwahyang1/Adobe-Discord-RPC?include_prereleases&style=for-the-badge)](https://github.com/hwahyang1/Adobe-Discord-RPC/releases) ![GitHub last commit](https://img.shields.io/github/last-commit/hwahyang1/Adobe-Discord-RPC.svg?style=for-the-badge) [![GitHub All Releases](https://img.shields.io/github/downloads/hwahyang1/Adobe-Discord-RPC/total?style=for-the-badge)](https://github.com/hwahyang1/Adobe-Discord-RPC/releases)
+![GitHub repo size](https://img.shields.io/github/repo-size/Adobe-Discord-RPC/Adobe-Discord-RPC-Old?style=for-the-badge) [![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/Adobe-Discord-RPC/Adobe-Discord-RPC-Old?include_prereleases&style=for-the-badge)](https://github.com/Adobe-Discord-RPC/Adobe-Discord-RPC-Old/releases) ![GitHub last commit](https://img.shields.io/github/last-commit/Adobe-Discord-RPC/Adobe-Discord-RPC-Old.svg?style=for-the-badge) [![GitHub All Releases](https://img.shields.io/github/downloads/Adobe-Discord-RPC/Adobe-Discord-RPC-Old/total?style=for-the-badge)](https://github.com/Adobe-Discord-RPC/Adobe-Discord-RPC-Old/releases)
 
 # 개발자 정보
 
@@ -43,7 +43,7 @@ MAX OS X 지원 계획은 없습니다.
 
 # 프로그램 구조
 
-![Program logic](https://github.com/hwahyang1/Adobe-Discord-RPC/blob/master/img_for_github/program_logic.png)
+![Program logic](https://github.com/Adobe-Discord-RPC/Adobe-Discord-RPC-Old/blob/master/img_for_github/program_logic.png)
 
 # 지원 프로그램
 
@@ -80,7 +80,7 @@ MAX OS X 지원 계획은 없습니다.
 ※ **코드상의 문제로 인하여 프로그램이 종료되면 자동으로 60초 안에 다시 가동됩니다.**
 
 # 코드 참여 (Pull Request)
-[CONTRIBUTING.md](https://github.com/hwahyang1/Adobe-Discord-RPC/blob/master/CONTRIBUTING.md)를 참고하세요.
+[CONTRIBUTING.md](https://github.com/Adobe-Discord-RPC/Adobe-Discord-RPC-Old/blob/master/CONTRIBUTING.md)를 참고하세요.
 
 # 저작권 안내
 
