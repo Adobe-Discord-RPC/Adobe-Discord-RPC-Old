@@ -1,3 +1,7 @@
+# 본 레포지토리는 더 이상 사용하지 않습니다
+
+[Organization](https://github.com/Adobe-Discord-RPC)으로 이동하여 다양한 레포지토리에 참여 해 보세요.
+
 # Adobe Discord RPC
 
 ![Cover Image](https://github.com/Adobe-Discord-RPC/Adobe-Discord-RPC-Old/blob/master/img_for_github/cover.png)
