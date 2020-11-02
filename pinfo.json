@@ -5,8 +5,14 @@
     "splitBy": "[",
     "splitIndex": 1,
     "appid": 691218168743723008,
-    "largeText": "버전 : %Ver%",
-    "smallText": "파일명 : %Filename%"
+    "Ko": {
+        "largeText": "버전 : %Ver%",
+        "smallText": "파일명 : %Filename%"
+    },
+    "En": {
+        "largeText": "Version : %Ver%",
+        "smallText": "File : %Filename%"
+    }
 },
 {
     "processName": "blender.exe",
@@ -15,8 +21,14 @@
     "splitBy": "[",
     "splitIndex": 1,
     "appid": 690447743738576946,
-    "largeText": "버전 : %Ver%",
-    "smallText": "파일명 : %Filename%"
+    "Ko": {
+        "largeText": "버전 : %Ver%",
+        "smallText": "파일명 : %Filename%"
+    },
+    "En": {
+        "largeText": "Version : %Ver%",
+        "smallText": "File : %Filename%"
+    }
 },
 {
     "processName": "Photoshop.exe",
@@ -25,8 +37,14 @@
     "splitBy": " @ ",
     "splitIndex": 0,
     "appid": 689476229652414528,
-    "largeText": "CC %Ver%",
-    "smallText": "파일명 : %Filename%"
+    "Ko": {
+        "largeText": "CC %Ver%",
+        "smallText": "파일명 : %Filename%"
+    },
+    "En": {
+        "largeText": "CC %Ver%",
+        "smallText": "File : %Filename%"
+    }
 },
 {
     "processName": "Adobe Premiere Pro.exe",
@@ -35,8 +53,14 @@
     "splitBy": " - ",
     "splitIndex": 1,
     "appid": 689475871739740205,
-    "largeText": "CC %Ver%",
-    "smallText": "작업중 : %Filename%"
+    "Ko": {
+        "largeText": "CC %Ver%",
+        "smallText": "작업중 : %Filename%"
+    },
+    "En": {
+        "largeText": "CC %Ver%",
+        "smallText": "Working on : %Filename%"
+    }
 },
 {
     "processName": "adobe premiere rush.exe",
@@ -45,8 +69,14 @@
     "splitBy": "망할거왜프로젝트저장도안되냐미친",
     "splitIndex": 1,
     "appid": 689475871739740205,
-    "largeText": "신나는 편집",
-    "smallText": "편집 하는중"
+    "Ko": {
+        "largeText": "신나는 편집",
+        "smallText": "편집 하는중"
+    },
+    "En": {
+        "largeText": "Editing",
+        "smallText": "Editing"
+    }
 },
 {
     "processName": "Illustrator.exe",
@@ -55,8 +85,14 @@
     "splitBy": " @ ",
     "splitIndex": 0,
     "appid": 689474460788719716,
-    "largeText": "CC %Ver%",
-    "smallText": "파일명 : %Filename%"
+    "Ko": {
+        "largeText": "CC %Ver%",
+        "smallText": "파일명 : %Filename%"
+    },
+    "En": {
+        "largeText": "CC %Ver%",
+        "smallText": "File : %Filename%"
+    }
 },
 {
     "processName": "AfterFX.exe",
@@ -65,8 +101,14 @@
     "splitBy": " - ",
     "splitIndex": 1,
     "appid": 689459344500326416,
-    "largeText": "CC %Ver%",
-    "smallText": "파일명 : %Filename%"
+    "Ko": {
+        "largeText": "CC %Ver%",
+        "smallText": "파일명 : %Filename%"
+    },
+    "En": {
+        "largeText": "CC %Ver%",
+        "smallText": "File : %Filename%"
+    }
 },
 {
     "processName": "Adobe Audition.exe",
@@ -75,8 +117,14 @@
     "splitBy": "미친얘왜파일명안뜸나처음알앗네야미친버전도안떠이게프로그램이냐",
     "splitIndex": 0,
     "appid": 689478069156839432,
-    "largeText": "CC %Ver%",
-    "smallText": "믹싱 작업중"
+    "Ko": {
+        "largeText": "CC %Ver%",
+        "smallText": "믹싱 작업중"
+    },
+    "En": {
+        "largeText": "CC %Ver%",
+        "smallText": "Mixing"
+    }
 },
 {
     "processName": "Adobe Media Encoder.exe",
@@ -85,8 +133,14 @@
     "splitBy": "아몰라어케든되겠지얘는파일명안뜨는걸나보고어쩌라고메인수정하기귀찮음",
     "splitIndex": 0,
     "appid": 689477944510513152,
-    "largeText": "CC %Ver%",
-    "smallText": "신나는 렌더링 하는중"
+    "Ko": {
+        "largeText": "CC %Ver%",
+        "smallText": "신나는 렌더링 하는중"
+    },
+    "En": {
+        "largeText": "CC %Ver%",
+        "smallText": "Rendering"
+    }
 },
 {
     "processName": "Indesign.exe",
@@ -95,8 +149,14 @@
     "splitBy": " @ ",
     "splitIndex": 0,
     "appid": 689733909897805834,
-    "largeText": "CC %Ver%",
-    "smallText": "파일명 : %Filename%"
+    "Ko": {
+        "largeText": "CC %Ver%",
+        "smallText": "파일명 : %Filename%"
+    },
+    "En": {
+        "largeText": "CC %Ver%",
+        "smallText": "File : %Filename%"
+    }
 },
 {
     "processName": "Dimension.exe",
@@ -105,8 +165,14 @@
     "splitBy": "뭔놈의망할프로그램은파일명의안띄워줘아아아아악",
     "splitIndex": 0,
     "appid": 689736767393234956,
-    "largeText": "신나는 모델링",
-    "smallText": "모델링 하는중"
+    "Ko": {
+        "largeText": "신나는 모델링",
+        "smallText": "모델링 하는중"
+    },
+    "En": {
+        "largeText": "Modeling",
+        "smallText": "Modeling in progress"
+    }
 },
 {
     "processName": "Animate.exe",
@@ -115,8 +181,14 @@
     "splitBy": "미친얘는또왜창네임전체가파일명이냐와",
     "splitIndex": 0,
     "appid": 689736767393234956,
-    "largeText": "CC %Ver%",
-    "smallText": "파일명 : %Filename%"
+    "Ko": {
+        "largeText": "CC %Ver%",
+        "smallText": "파일명 : %Filename%"
+    },
+    "En": {
+        "largeText": "CC %Ver%",
+        "smallText": "File : %Filename%"
+    }
 },
 {
     "processName": "Dreamweaver.exe",
@@ -125,8 +197,14 @@
     "splitBy": "뭔놈의망할프로그램은파일안열면버전나오고파일열면창전체가파일명이야",
     "splitIndex": 0,
     "appid": 689736767393234956,
-    "largeText": "CC %Ver%",
-    "smallText": "파일명 : %Filename%"
+    "Ko": {
+        "largeText": "CC %Ver%",
+        "smallText": "파일명 : %Filename%"
+    },
+    "En": {
+        "largeText": "CC %Ver%",
+        "smallText": "File : %Filename%"
+    }
 },
 {
     "processName": "xd.exe",
@@ -135,6 +213,12 @@
     "splitBy": "얘는왜안잡힘;;;;;;;;",
     "splitIndex": 0,
     "appid": 689740654657798146,
-    "largeText": "신나는 디자인",
-    "smallText": "디자인 하는 중"
+    "Ko": {
+        "largeText": "신나는 디자인",
+        "smallText": "디자인 하는 중"
+    },
+    "En": {
+        "largeText": "Designing",
+        "smallText": "Designing"
+    }
 }]

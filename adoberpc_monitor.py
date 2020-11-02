@@ -9,9 +9,9 @@
      /_/    \_\__,_|\___/|_.__/ \___| |_____/|_|___/\___\___/|_|  \__,_| |_|  \_\_|     \_____|
  
     Ver. M1.1
-    © 2017-2020 화향.
-    Follow GPL-3.0
-    Gtihub || https://github.com/hwahyang1/Adobe-Discord-RPC
+    © 2017-2020 Adobe Discord RPC Team.
+    Follows GPL-3.0
+    Gtihub || https://github.com/Adobe-Discord-RPC
 
     :: System Monitor ::
 """

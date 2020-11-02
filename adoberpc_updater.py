@@ -9,13 +9,11 @@
      /_/    \_\__,_|\___/|_.__/ \___| |_____/|_|___/\___\___/|_|  \__,_| |_|  \_\_|     \_____|
  
     Ver. U1.2
-    © 2017-2020 화향.
-    Follow GPL-3.0
-    Gtihub || https://github.com/hwahyang1/Adobe-Discord-RPC
+    © 2017-2020 Adobe Discord RPC Team.
+    Follows GPL-3.0
+    Gtihub || https://github.com/Adobe-Discord-RPC
 
     :: Program Updater ::
-
-    Form implementation generated from reading ui file 'update_dialog.ui'
 
     Created by: PyQt5 UI code generator 5.14.1
 """
