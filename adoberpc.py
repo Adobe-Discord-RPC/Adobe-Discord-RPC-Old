@@ -8,7 +8,7 @@
       / ____ \ (_| | (_) | |_) |  __/ | |__| | \__ \ (_| (_) | | | (_| | | | \ \| |    | |____ 
      /_/    \_\__,_|\___/|_.__/ \___| |_____/|_|___/\___\___/|_|  \__,_| |_|  \_\_|     \_____|
  
-    Ver. 3.5 (Hotfix)
+    Ver. 3.6 (Hotfix)
     © 2017-2020 Adobe Discord RPC Team.
     Follows GPL-3.0
     Gtihub || https://github.com/Adobe-Discord-RPC
@@ -316,9 +316,9 @@ if __name__ == "__main__" :
                         dur = True
                         window_title = get_window_title(pinfo[2])
                         filename = window_title.split(pinfo[len(pinfo)-1]['splitBy'])[pinfo[len(pinfo)-1]['splitIndex']]
-                        lmt = pinfo[len(pinfo)-1]['largeText'].replace('%Ver%', version)
+                        lmt = pinfo[len(pinfo)-1][langcode]['largeText'].replace('%Ver%', version)
                         lmt = lmt.replace('%Filename%', filename)
-                        smt = pinfo[len(pinfo)-1]['smallText'].replace('%Filename%', filename)
+                        smt = pinfo[len(pinfo)-1][langcode]['smallText'].replace('%Filename%', filename)
                         smt = smt.replace('%Ver%', version)
                         dur = False
                         pass
