@@ -8,7 +8,7 @@
       / ____ \ (_| | (_) | |_) |  __/ | |__| | \__ \ (_| (_) | | | (_| | | | \ \| |    | |____ 
      /_/    \_\__,_|\___/|_.__/ \___| |_____/|_|___/\___\___/|_|  \__,_| |_|  \_\_|     \_____|
  
-    Ver. 3.6 (Hotfix)
+    Ver. 3.7 (20201127 Hotfix)
     © 2017-2020 Adobe Discord RPC Team.
     Follows GPL-3.0
     Gtihub || https://github.com/Adobe-Discord-RPC
@@ -58,11 +58,11 @@ if __name__ == "__main__" :
         goout()
 
     # Init
-    log("INFO", "Init")
+    log("INFO", "Init", datetime)
     dur = False
 
     # 언어 Detect
-    if locale.getdefaultlocale() == "ko_KR": # 한어
+    if ("ko" in locale.getdefaultlocale()[0]) and ("KR" in locale.getdefaultlocale()[0]): # 한어
         langcode = "Ko"
         lang = {
             'Current': '(현재)', 'Latest': '(최신)',
@@ -83,7 +83,8 @@ if __name__ == "__main__" :
             'UpdateFailed': 'Failed to update RPC.\nAutomatically retry after 30 seconds.'
         }
 
-    log("DEBUG", "langcode : %s, %s" % (langcode, lang))
+    log("DEBUG", "Return : %s, %s" % ("ko" in locale.getdefaultlocale()[0], "KR" in locale.getdefaultlocale()[0]), datetime)
+    log("DEBUG", "langcode : %s -> %s, %s" % (locale.getdefaultlocale(), langcode, lang), datetime)
         
     try:
         os.remove('./stop.req')
